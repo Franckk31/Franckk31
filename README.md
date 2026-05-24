@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University with a strong passion for Data Analysis. I possess solid foundational skills in SQL and Python, and I'm eager to apply analytical thinking and technical knowledge to drive data-driven business decisions in a real-world environment.
+I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University with a strong passion for Data Analysis. I possess solid foundational skills in SQL and Python, and I'm eager to apply[...]
 
 [![Email](https://img.shields.io/badge/📧_EMAIL-Click--here--to--contact-111?style=for-the-badge)](mailto:nuttanaisuwantamee@gmail.com)
 
-[![RESUME](https://img.shields.io/badge/💻_RESUME-Click--here--to--view-111?style=for-the-badge)]([https://github.com/Franckk31](https://drive.google.com/file/d/1g0FLQ2qafujzqOEwUgrKVHRalQMXCcQ6/view?usp=sharing))
+[![RESUME](https://img.shields.io/badge/💻_RESUME-Click--here--to--view-111?style=for-the-badge)](https://drive.google.com/file/d/1g0FLQ2qafujzqOEwUgrKVHRalQMXCcQ6/view)
 
 ---
 
