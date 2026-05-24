@@ -6,7 +6,7 @@ I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University w
 
 [![Email](https://img.shields.io/badge/📧_EMAIL-Click--here--to--contact-111?style=for-the-badge)](mailto:nuttanaisuwantamee@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/💻_GITHUB-Click--here--to--view-111?style=for-the-badge)](https://github.com/Franckk31)
+[![RESUME](https://img.shields.io/badge/💻_RESUME-Click--here--to--view-111?style=for-the-badge)]([https://github.com/Franckk31](https://drive.google.com/file/d/1g0FLQ2qafujzqOEwUgrKVHRalQMXCcQ6/view?usp=sharing))
 
 ---
 
